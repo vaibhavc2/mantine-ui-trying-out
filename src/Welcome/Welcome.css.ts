@@ -10,13 +10,13 @@ export const title = style({
 
   selectors: {
     [vars.darkSelector]: {
-      color: vars.colors.white,
-    },
+      color: vars.colors.white
+    }
   },
 
   "@media": {
     [vars.smallerThan("md")]: {
-      fontSize: rem(50),
-    },
-  },
+      fontSize: rem(50)
+    }
+  }
 });

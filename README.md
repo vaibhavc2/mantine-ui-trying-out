@@ -1,3 +1,3 @@
-# Currency Converter
+# Trying out Mantine
 
-This is a Currency Converter which uses APIs to convert from one currency to another. It is built using React, Typescript, and Mantine.
+This is a simle project in which I try out Mantine using Vite, React and Typescript.
