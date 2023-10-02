@@ -1,5 +1,3 @@
-# Mantine + Vite + Vanilla extract template
+# Currency Converter
 
-Get started with the template by clicking `Use this template` button on the top of the page.
-
-[Documentation](https://mantine.dev/styles/vanilla-extract/)
+This is a Currency Converter which uses APIs to convert from one currency to another. It is built using React, Typescript, and Mantine.
